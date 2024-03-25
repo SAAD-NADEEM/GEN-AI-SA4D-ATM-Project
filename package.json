@@ -1,0 +1,23 @@
+{
+  "name": "gen-ai-sa4d-atm-project",
+  "version": "1.0.0",
+  "description": "SImple ATM login program that wont terminate if u entered wrong credentials.",
+  "main": "index.js",
+  "type":"module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SAAD-NADEEM/GEN-AI-SA4D-ATM-Project.git"
+  },
+  "author": "SA4D",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SAAD-NADEEM/GEN-AI-SA4D-ATM-Project/issues"
+  },
+  "homepage": "https://github.com/SAAD-NADEEM/GEN-AI-SA4D-ATM-Project#readme",
+  "dependencies": {
+    "inquirer": "^9.2.16"
+  }
+}
