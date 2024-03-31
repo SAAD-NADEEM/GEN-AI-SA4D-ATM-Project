@@ -17,3 +17,5 @@ CODE OVERVIEW:
 4) selecting either withdraw or fast cash will ask to input a ammount or select an ammount. That ammount would then be minus from the total balance or will display a error if ammount is greater then the balance.
 
 5) Program will not terminate and will ask for the options again, selecting exit will then terminate the program.
+
+also, for old version of npm its version is 1.0.2.

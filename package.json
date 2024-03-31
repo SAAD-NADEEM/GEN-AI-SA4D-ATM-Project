@@ -1,6 +1,6 @@
 {
   "name": "sa4d-atm",
-  "version": "1.0.2",
+  "version": "2.0.2",
   "description": "SImple ATM login program that wont terminate if u entered wrong credentials.",
   "main": "index.js",
   "type": "module",
